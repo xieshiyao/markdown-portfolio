@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can write programs in **C**, **Python**, **Go**, **Vim Script**, **Java**, and so on.
+
+I can alse play _**t**able **t**enis_ and _**t**enis_.
