@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+### My favorite book
+- poetries and passages written by sushi
+  * riyu
+  * fanghetingji
+  * pusuanzi
+- yukikuni
+- lunxun
